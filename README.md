@@ -1,7 +1,9 @@
 Map Application
+
 Project Overview:
 Get ready to organize your daily life with our map application, "Notes on the Map"! With this user-friendly application, you can mark your important notes on the map, track their locations, and access them instantly.
- External Library:
+
+External Library:
 Leaflet 
 Boostrap Icons
 Google Fonts
@@ -22,8 +24,11 @@ Date and Status Information: Add a date to each note and specify its status. Org
 Icons for Different Statuses: Want to go to places to visit, parking lots, homes, or workplaces? Explore various icons that can be used to specify different statuses.
 User-Friendly Interface: Notes on the Map offers a simple interface for an easy and understandable experience. Navigating the map and adding notes has never been simpler.
 
+
 Mobile-Friendly: Access your notes from both your computer and mobile device. Reach your notes anytime, anywhere.
+
 How to Get Started:
+
 Explore the Map: First, explore the map and identify important locations.
 Add Notes: Simply click to add a note. Specify the title, date, and status.
 Organize: Categorize and manage your notes easily.
