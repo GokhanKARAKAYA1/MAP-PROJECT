@@ -5,8 +5,11 @@ Get ready to organize your daily life with our map application, "Notes on the Ma
 
 External Library:
 Leaflet 
+
 Boostrap Icons
+
 Google Fonts
+
 <h1>MAP-PROJECT</h1>
 
 <p> This project is a website designed using advanced HTML and CSS codes. It includes Google fonts and Fontawesome icons.
@@ -33,6 +36,7 @@ Explore the Map: First, explore the map and identify important locations.
 Add Notes: Simply click to add a note. Specify the title, date, and status.
 Organize: Categorize and manage your notes easily.
 Track: Navigate the map and track your notes, making edits as needed.
+
 If you have any questions or suggestions, feel free to contact me at [gkarakaya0601@gmail.com]
 </p>
 
